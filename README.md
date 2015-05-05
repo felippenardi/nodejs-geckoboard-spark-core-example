@@ -1,6 +1,6 @@
-# nodejs-geckoboard-spark-core-example
+# Simple NodeJS TDD Example
 
-This is an API interface that bridges Spark Core and Geckoboard.
+This is a simple example nodeJS repository with TDD
 
 
 ## Run tests
