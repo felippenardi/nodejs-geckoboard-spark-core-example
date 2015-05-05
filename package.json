@@ -4,6 +4,7 @@
   },
   "devDependencies": {
     "chai": "^2.3.0",
+    "hippie": "^0.3.0",
     "mocha": "^2.2.4",
     "mongoose": "^4.0.2",
     "sinon": "^1.14.1"
